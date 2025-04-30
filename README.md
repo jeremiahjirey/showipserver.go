@@ -24,13 +24,4 @@ Sebelum menjalankan aplikasi ini, pastikan Anda telah menginstal:
    cd showipserver.go
    go build -o main .
    ./main
-    http://localhost:8080
-
-
-
-
-
-
-   
-
-   
+   http://localhost:8080
